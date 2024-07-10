@@ -46,4 +46,4 @@ This script converts logbook data to CSV format. It is designed to parse and cle
 
 
 ## Contact
-For any inquiries, you can reach me at [your-email@example.com].
+For any inquiries, you can reach me at [isaac.rubey@gmail.com].
